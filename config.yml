@@ -130,6 +130,7 @@ development:
       - 'us-west-2'
       - 'us-east-1'
       - 'eu-central-1'
+    tableSigningKey:          not-a-secret-so-you-cant-guess-it
 
 test:
   app:
